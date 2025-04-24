@@ -1,0 +1,7 @@
+# Sensitive files
+key.key
+passwords.enc
+
+# Python system files
+__pycache__/
+*.pyc
